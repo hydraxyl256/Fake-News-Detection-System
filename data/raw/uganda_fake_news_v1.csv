@@ -1,0 +1,403 @@
+id,text,label,source,platform_type,language,date_collected
+UG_TRUE_001,"The Ministry of Health confirms no outbreak of Ebola in Kampala.",TRUE,Daily Monitor,News Website,English,2025-01-10
+UG_FAKE_001,"Drinking hot water every 15 minutes kills COVID-19 virus in the body.",FAKE,AfricaCheck,Fact-Check,English,2025-01-10
+UG_FAKE_002,"Government has approved free electricity for all Ugandans starting next month.",FAKE,PesaCheck,Fact-Check,English,2025-01-11
+UG_TRUE_002,"Parliament passes new amendment to the National ID registration law.",TRUE,New Vision,News Website,English,2025-01-11
+UG_TRUE_003,"Museveni alisema hakuna lockdown tena nchini Uganda.",TRUE,BBC Africa,News Website,Mixed,2025-01-12
+UG_FAKE_003,"No, video does not show US troops arriving in Uganda to assist 2026 election campaigns.",FAKE,AFP Fact Check,Fact-Check,English,2025-19-12
+UG_TRUE_004,"Uganda to host the 2025 Africa Cup of Nations.",TRUE,CNN,News Website,English,2025-01-13
+UG_FAKE_004,"Eating garlic prevents malaria infection.",FAKE,HealthLine,Fact-Check,English,2025-01-13
+UG_TRUE_005,"Waziri wa Afya atangaza kampeni ya chanjo ya sura ya matumbo kuanzia mwezi ujao.",TRUE,VOA Swahili,News Website,Mixed,2025-01-14
+UG_TRUE_006,"No evidence that 5G technology spreads COVID-19 virus.",TRUE,Reuters,News Website,English,2025-01-14
+UG_TRUE_007,"Uganda's economy grows by 6% in the last quarter.",TRUE,The East African,News Website,English,2025-01-15
+UG_FAKE_004,"Front page of Ugandan daily New Vision calling president Yoweri Museveni the ‘worst dictator’ is fake.",FAKE,AfricaCheck,Fact-Check,English,2025-07-15
+UG_TRUE_008,"Uganda bans single-use plastics to combat environmental pollution.",TRUE,Daily Monitor,News Website,English,2025-01-16
+UG_FAKE_005,"NTV Uganda ‘tweet’ apologising for announcing ‘fake’ election results is – fake.",FAKE,AfricaCheck,Fact-Check,English,2021-02-10
+UG_FAKE_006,"No, Ugandan health ministry did not raise alarm about quarantined Covid-19 patients having sex.",FAKE,AfricaCheck,Fact-Check,English,2020-04-22
+UG_FAKE_007,"Manipulated video shows US president Trump urging Ugandans not to forgive president Museveni until he resigns.",FAKE,AfricaCheck,Fact-Check,English,2025-10-21
+UG_FAKE_008,"No, photo of Ugandan police officer with ballot box from 2016, not 2021 elections.",FAKE,AfricaCheck,Fact-Check,English,2021-01-25
+UG_FAKE_009,"Viral video of president Yoweri Museveni saying Ugandans will never vote for opposition leader Bobi Wine fabricated.",FAKE,AfricaCheck,Fact-Check,English,2025-12-19
+UG_FAKE_010,"Fake tweet claims Ugandan car owners will be fined for not driving twice a week, but no such law exists.",FAKE,AfricaCheck,Fact-Check,English,2025-07-04
+UG_FAKE_011,"No, tweet saying Ugandan police will arrest women who turn down men and promote homosexuality is fake.",FAKE,AfricaCheck,Fact-Check,English,2023-03-09
+UG_FAKE_012,"No, the UK hasn't blocked Uganda Airlines' direct flights to London Gatwick airport.",FAKE,AfricaCheck,Fact-Check,English,2025-03-31
+UG_FAKE_013,"Front page of Ugandan daily New Vision calling president Yoweri Museveni the ‘worst dictator’ is fake.",FAKE,AfricaCheck,Fact-Check,English,2025-07-02
+UG_FAKE_014,"NTV Uganda ‘tweet’ apologising for announcing ‘fake’ election results is – fake.",FAKE,AfricaCheck,Fact-Check,English,2021-02-10
+UG_FAKE_015,"No CNN report on ‘pressure’ for Ugandan president Museveni to change name.",FAKE,AfricaCheck,Fact-Check,English,2020-10-16
+UG_FAKE_016,"Disregard fake Sunday Monitor front page headlined ‘Saleh spends billions to stop Kyagulanyi in Gulu’",FAKE,AfricaCheck,Fact-Check,English,2025-12-15
+UG_FAKE_017,"Ignore fake newspaper page claiming Ugandan opposition leader Bobi Wine plans to lose 2026 elections.",FAKE,AfricaCheck,Fact-Check,English,2025-10-16
+UG_FAKE_018,"Report alleging opposition-led plot to overthrow Ugandan government is fake, says country’s army.",FAKE,AfricaCheck,Fact-Check,English,2024-08-23
+UG_FAKE_019,"No, Ugandan police didn’t tweet that president Museveni’s academic documents were destroyed in fire.",FAKE,AfricaCheck,Fact-Check,English,2020-09-30
+UG_FAKE_020,"Ugandan opposition politician Zahara Luyirika didn’t endorse president Museveni – viral image doctored.",FAKE,AfricaCheck,Fact-Check,English,2025-11-18
+UG_FAKE_021,"No, Ugandan sheikh not being charged by police for refusing to hold president’s portrait.",FAKE,AfricaCheck,Fact-Check,English,2020-10-3
+UG_FAKE_022,"No, Ugandan president Museveni didn’t announce military reshuffle on Twitter.",FAKE,AfricaCheck,Fact-Check,English,2020-06-22
+UG_FAKE_023,"No, Uganda Police Force not recruiting polling constables for 2026 election.",FAKE,AfricaCheck,Fact-Check,English,2025-10-24
+UG_FAKE_024,"No, Nigerian actor Genevieve Nnaji didn’t post Facebook endorsement of Bobi Wine for Uganda’s presidency.",FAKE,AfricaCheck,Fact-Check,English,2020-11-12
+UG_FAKE_025,"No, Uganda’s deputy police spokesperson didn’t announce resignation on Twitter.",FAKE,AfricaCheck,Fact-Check,English,2020-12-01
+UG_FAKE_026,"No, Ugandan opposition leader Bobi Wine didn’t call for president Museveni’s assassination.",FAKE,AfricaCheck,Fact-Check,English,2020-08-15
+UG_FAKE_027,"Viral letter falsely claims Ugandan politician Bosmic Otim was barred from ruling party elections due to fraud.",FAKE,AfricaCheck,Fact-Check,English,2025-08-14
+UG_FAKE_028,"NCBA Bank Uganda warns against fake job ads on social media.",FAKE,AfricaCheck,Fact-Check,English,2024-09-23
+UG_FAKE_029,"Uganda’s finance ministry not giving free grants to entrepreneurs, farmers.",FAKE,AfricaCheck,Fact-Check,English,2020-07-16
+UG_FAKE_030,"Ugandan army says circulating press release condemning human rights abuses is fake.",FAKE,AfricaCheck,Fact-Check,English,2024-08-13
+UG_FAKE_031,"No evidence Ugandan president Yoweri Museveni is hospitalised or critically ill.",FAKE,AfricaCheck,Fact-Check,English,2025-10-22
+UG_FAKE_032,"Fake news, says Uganda's New Vision newspaper over school coupling nod claim.",FAKE,AfricaCheck,Fact-Check,English,2024-09-19
+UG_FAKE_033,"Beware! Fake Uganda deputy police spokesperson Twitter account at it again .",FAKE,AfricaCheck,Fact-Check,English,2021-01-08
+UG_TRUE_009,"Uganda launches new initiative to improve access to clean water in rural areas.",TRUE,Daily Monitor,News Website,English,2025-01-17
+UG_TRUE_010,"Uganda's central bank maintains interest rates to support economic growth.",TRUE,New Vision,News Website,English,2025-01-18
+UG_TRUE_011,"Waziri wa Elimu atangaza mikakati mipya ya kuboresha elimu nchini Uganda.",TRUE,VOA Swahili,News Website,Mixed,2025-01-18
+UG_TRUE_012,"Uganda signs agreement to enhance regional trade with neighboring countries.",TRUE,CNN,News Website,English,2025-01-19
+UG_TRUE_013,"Uganda's tourism sector shows signs of recovery post-pandemic.",TRUE,BBC Africa,News Website,Mixed,2025-01-19
+UG_TRUE_014,"New infrastructure projects to boost connectivity in Uganda announced.",TRUE,The East African,News Website,English,2025-01-20
+UG_TRUE_015,"Uganda's agricultural exports increase significantly in the last fiscal year.",TRUE,Daily Monitor,News Website,English,2025-01-20
+UG_TRUE_016,"Uganda to implement new policies to support small and medium enterprises.",TRUE,New Vision,News Website,English,2025-01-21
+UG_TRUE_017,"Waziri wa Afya atangaza hatua mpya za kupambana na magonjwa nchini Uganda.",TRUE,VOA Swahili,News Website,Mixed,2025-05-21
+UG_TRUE_018,"Uganda collaborates with international partners to enhance healthcare services.",TRUE,CNN,News Website,English,2025-01-22
+UG_TRUE_019,"Uganda's education sector adopts new technologies to improve learning outcomes.",TRUE,BBC Africa,News Website,English,2025-01-22
+UG_TRUE_020,"Uganda's renewable energy initiatives gain momentum with new projects.",TRUE,The East African,News Website,English,2025-01-23
+UG_TRUE_021,"Uganda's government launches campaign to promote tourism in the country.",TRUE,Daily Monitor,News Website,English,2025-06-06
+UG_TRUE_022,"Uganda's infrastructure development projects receive international funding.",TRUE,New Vision,News Website,English,2025-01-24
+UG_FAKE_034,"No, Ugandan president Museveni didn’t declare war on social media platforms.",FAKE,AfricaCheck,Fact-Check,English,2025-04-12
+UG_FAKE_035,"No, newspaper didn’t report that Ugandan presidential hopeful Bobi Wine spent millions on witchcraft.",FAKE,AfricaCheck,Fact-Check,English,2020-12-18
+UG_FAKE_036,"No, Uganda’s state-owned electricity distributor is not hiring.",FAKE,AfricaCheck,Fact-Check,English,2025-03-03
+UG_FAKE_037,"Uganda’s health ministry ‘discussing’ announcement of third Covid-19 death? No, Facebook post fake.",FAKE,AfricaCheck,Fact-Check,English,2020-07-31
+UG_FAKE_038,"Ignore fake timetable for Uganda’s primary school exams circulating online.",FAKE,AfricaCheck,Fact-Check,English,2024-08-18
+UG_FAKE_039,"No, Ugandan opposition leader Bobi Wine didn’t call for a general strike.",FAKE,AfricaCheck,Fact-Check,English,2025-04-15
+UG_FAKE_040,"No, Ugandan minister didn’t announce free laptops for all students.",FAKE,AfricaCheck,Fact-Check,English,2025-02-20
+UG_FAKE_041,"No, Ugandan government didn’t ban social media platforms.",FAKE,AfricaCheck,Fact-Check,English,2025-03-15
+UG_FAKE_042,"No, image not of Ugandan soldiers ‘slaughtering’ locusts.",FAKE,AfricaCheck,Fact-Check,English,2020-02-22
+UG_FAKE_043,"Ignore fake graphics claiming president Yoweri Museveni barred CNN journalist Larry Madowo from covering Uganda’s 2026 elections.",FAKE,AfricaCheck,Fact-Check,English,2025-12-17
+UG_FAKE_044,"Ugandan opposition party wins youth vote by landslide? No, headline fake.",FAKE,AfricaCheck,Fact-Check,English,2020-12-30
+UG_FAKE_045,"No, president William Ruto didn’t hint at giving Kenya’s portion of the Indian Ocean to Uganda to prevent war.",FAKE,AfricaCheck,Fact-Check,English,2025-12-01
+UG_FAKE_046,"No, Ugandan president Museveni didn’t tweet announcement of his brother’s death.",FAKE,AfricaCheck,Fact-Check,English,2023-09-27
+UG_FAKE_047,"No, Uganda’s police didn’t threaten to arrest people who don’t watch NBS TV.",FAKE,AfricaCheck,Fact-Check,English,2021-02-21
+UG_FAKE_048,"Altered photo used to claim Ugandan opposition politician Mpuuga running for 2026 presidency.",FAKE,AfricaCheck,Fact-Check,English,2024-04-29
+UG_FAKE_049,"Front page claiming ‘203 killed’ in Ugandan riots fake, says newspaper New Vision.",FAKE,AfricaCheck,Fact-Check,English,2020-11-24
+UG_FAKE_050,"No, Uganda’s NBS TV didn’t apologise for announcing ‘fake’ election results.",FAKE,AfricaCheck,Fact-Check,English,2021-02-05
+UG_TRUE_023,"Uganda's government announces new measures to support farmers amid climate change challenges.",TRUE,Daily Monitor,News Website,English,2025-01-25
+UG_FAKE_051,"Fake UN job ad targets Ugandans amid unemployment crisis.",FAKE,AfricaCheck,Fact-Check,English,2025-06-30
+UG_FAKE_052,"No, Ugandan anti-graft unit not investigating official for misuse of public property.",FAKE,AfricaCheck,Fact-Check,English,2020-08-12
+UG_FAKE_053,"Uganda Red Cross doesn’t advertise jobs on Facebook – beware scam charging ‘registration fee’.",FAKE,AfricaCheck,Fact-Check,English,2020-03-20
+UG_FAKE_054,"Motorists from Uganda and Tanzania crossing into Kenya for cheaper fuel? No, ignore fake graphic.",FAKE,AfricaCheck,Fact-Check,English,2024-03-20
+UG_FAKE_055,"Ugandan tabloid front page with headline about Kenya’s deputy president photoshopped.",FAKE,AfricaCheck,Fact-Check,English,2022-05-25
+UG_TRUE_024,"Uganda's government to invest in renewable energy projects to reduce carbon emissions.",TRUE,New Vision,News Website,English,2025-01-26
+UG_FAKE_056,"Ugandan govt ‘to start killing youth’? No, newspaper front page manipulated.",FAKE,AfricaCheck,Fact-Check,English,2019-10-14
+UG_FAKE_057,"Photo of opposition leader Bobi Wine supporting Ugandan president Museveni doctored.",FAKE,AfricaCheck,Fact-Check,English,2021-01-01
+UG_FAKE_058,"Kenyan police didn’t issue statement alleging immigrants were involved in violent street protests in Nairobi.",FAKE,AfricaCheck,Fact-Check,English,2025-07-09
+UG_FAKE_059,"Covid-19 funds stolen? No, front page of Uganda’s New Vision newspaper doctored.",FAKE,AfricaCheck,Fact-Check,English,2020-08-14
+UG_FAKE_060,"Scam! Botswana’s finance ministry not advertising business grants on Facebook.",FAKE,AfricaCheck,Fact-Check,English,2020-09-10
+UG_FAKE_061,"Old photos used to falsely claim Ugandan opposition leader Bobi Wine was at president’s residency in 2025.",FAKE,AfricaCheck,Fact-Check,English,2025-11-19
+UG_FAKE_062,"Beware of fake Ugandan hotel, resorts and lodges ‘gold list’ ranking.",FAKE,AfricaCheck,Fact-Check,English,2022-11-15
+UG_FAKE_063,"Altered photo used to claim Ugandan opposition politician Mpuuga running for 2026 presidency.",FAKE,AfricaCheck,Fact-Check,English,2024-04-29
+UG_FAKE_064,"Unresponsive Facebook public group 'Equity Bank Uganda' is fake, legitimate Equity Bank page is verified, won't contact you on WhatsApp.",FAKE,AfricaCheck,Fact-Check,English,2023-07-27
+UG_FAKE_065,"Ignore TikTok video claiming Marburg outbreak in Uganda and possible lockdowns.",FAKE,AfricaCheck,Fact-Check,English,2025-01-25
+UG_FAKE_066,"Ugandans, steer clear of Twitter account impersonating Stanbic bank Uganda.",FAKE,AfricaCheck,Fact-Check,English,2023-08-01
+UG_FAKE_067,"NUP spokesperson Waiswa Mufumbiro has not been released on bail",FAKE,PesaCheck,Fact-Check,English,2025-12-12
+UG_FAKE_068,"This video of Bobi Wine commenting on the violence in Uganda is edited",FAKE,PesaCheck,Fact-Check,English,2025-11-26
+UG_FAKE_069,"Kampala MP aspirant Abraham Luzzi is not dead.",FAKE,PesaCheck,Fact-Check,English,2025-02-15
+UG_FAKE_070,"This purported President Museveni Christmas grant is fake",FAKE,PesaCheck,Fact-Check,English,2025-12-24
+UG_FAKE_071,"This image of a plane on the road wasn’t taken in Kenya",FAKE,PesaCheck,Fact-Check,English,2025-03-05
+UG_FAKE_072,"This video of Bobi Wine being arrested is from 2021",FAKE,PesaCheck,Fact-Check,English,2025-10-14
+UG_FAKE_073,"There is no evidence that Ugandan opposition leader Bobi Wine has fled to the US",FAKE,PesaCheck,Fact-Check,English,2025-08-30
+UG_FAKE_074,"This video of US President Trump commenting on electoral violence in Uganda is doctored. The original video is of Trump’s speech during his campaign in Wisconsin in 2016.",FAKE,PesaCheck,Fact-Check,English,2025-11-05
+UG_FAKE_075,"This video of Bobi Wine calling for the overthrow of the Ugandan government is fake",FAKE,PesaCheck,Fact-Check,English,2025-09-15
+UG_TRUE_025,"Uganda's government to launch nationwide digital literacy program for youth.",TRUE,Daily Monitor,News Website,English,2025-01-27
+UG_FAKE_076,"HOAX: This Shell Christmas promo is fake",FAKE,PesaCheck,Fact-Check,English,2025-12-20
+UG_FAKE_077,"This video of Ugandan security forces shooting at protesters is from 2020",FAKE,PesaCheck,Fact-Check,English,2025-10-19
+UG_FAKE_078," This video is not of businessman Ham Kiggundu speaking after traders lost merchandise in downtown Kampala floods",FAKE,PesaCheck,Fact-Check,English,2025-09-10
+UG_FAKE_079,"FALSE: Uganda’s EC spokesperson did not ask Ugandans to stay at polling stations until votes are counted",FAKE,PesaCheck,Fact-Check,English,2025-10-14
+UG_FAKE_080,"This video of Bobi Wine calling for international intervention in Uganda is fake",FAKE,PesaCheck,Fact-Check,English,2025-11-20
+UG_FAKE_081,"Uganda’s EC spokesperson did not ask Ugandans to stay at polling stations until votes are countedThe video was created using AI.",FAKE,PesaCheck,Fact-Check,English,2025-10-14
+UG_FAKE_082,"ALTERED: This purported 7 December 2025 Sunday Monitor cover is edited",FAKE,PesaCheck,Fact-Check,English,2025-12-08
+UG_FAKE_083,"FALSE: This video is not of businessman Ham Kiggundu speaking after traders lost merchandise in downtown Kampala floods. The original video, from June 2023, is of Ham commenting about a case pitting him against Diamond Trust Bank.",FAKE,PesaCheck,Fact-Check,English,2025-12-10
+UG_FAKE_084,"This video of Ugandan security forces shooting at protesters is from 2020The video was created using AI.",FAKE,PesaCheck,Fact-Check,English,2025-10-19
+UG_FAKE_085,"This video of Bobi Wine calling for international intervention in Uganda is fakeThe video was created using AI.",FAKE,PesaCheck,Fact-Check,English,2025-11-20  
+UG_TRUE_026,"Uganda's government to enhance cybersecurity measures to protect citizens online.",TRUE,New Vision,News Website,English,2025-01-28 
+UG_TRUE_027,"Uganda's healthcare system to receive new medical equipment to improve patient care.",TRUE,VOA Swahili,News Website,Mixed,2025-01-28
+UG_TRUE_028,"Uganda's government to implement new policies to support renewable energy development.",TRUE,CNN,News Website,English,2025-01-29
+UG_TRUE_029,"Uganda's education sector to receive increased funding for infrastructure development.",TRUE,BBC Africa,News Website,Mixed,2025-01-29
+UG_TRUE_030,"Uganda's tourism industry to launch new marketing campaign to attract international visitors.",TRUE,The East African,News Website,English,2025-01-30   
+UG_TRUE_031,"Uganda's government to invest in digital infrastructure to support economic growth.",TRUE,Daily Monitor,News Website,English,2025-01-30    
+UG_TRUE_032,"Uganda's agricultural sector to benefit from new irrigation projects to boost productivity.",TRUE,New Vision,News Website,English,2025-01-31
+UG_TRUE_033,"Uganda's government to implement new measures to improve public transportation systems.",TRUE,VOA Swahili,News Website,Mixed,2025-01-31
+UG_TRUE_034,"Uganda's healthcare sector to receive training programs for medical professionals.",TRUE,CNN,News Website,English,2025-02-01
+UG_TRUE_035,"Uganda's education system to adopt new curriculum to enhance student learning outcomes.",TRUE,BBC Africa,News Website,English,2025-02-01
+UG_TRUE_036,"Uganda's government to launch new initiatives to promote entrepreneurship among youth.",TRUE,The East African,News Website,English,2025-02-02  
+UG_TRUE_037,"Uganda's government to enhance disaster preparedness and response mechanisms.",TRUE,Daily Monitor,News Website,English,2025-02-02    
+UG_TRUE_038,"Uganda's tourism sector to develop new eco-tourism destinations to attract visitors.",TRUE,New Vision,News Website,English,2025-02-03
+UG_TRUE_039,"Uganda's government to implement new policies to support smallholder farmers.",TRUE,VOA Swahili,News Website,Mixed,2025-02-03
+UG_TRUE_040,"Uganda's healthcare system to expand access to essential medicines in rural areas.",TRUE,CNN,News Website,English,2025-02-04
+UG_TRUE_041,"Uganda's education sector to receive new technology resources to enhance teaching and learning.",TRUE,BBC Africa,News Website,English,2025-02-04
+UG_TRUE_042,"Uganda's government to invest in renewable energy projects to reduce carbon emissions.",TRUE,The East African,News Website,English,2025-02-05  
+UG_TRUE_043,"Uganda's government to launch campaign to promote tourism in the country.",TRUE,Daily Monitor,News Website,English,2025-06-06    
+UG_TRUE_044,"Uganda's infrastructure development projects receive international funding.",TRUE,New Vision,News Website,English,2025-02-06   
+UG_TRUE_045,"Uganda's government to implement new measures to support digital innovation.",TRUE,VOA Swahili,News Website,Mixed,2025-02-06
+UG_TRUE_046,"Uganda's healthcare sector to receive new funding for disease prevention programs.",TRUE,CNN,News Website,English,2025-02-07
+UG_TRUE_047,"Uganda's education system to implement new teacher training programs to improve quality of education.",TRUE,BBC Africa,News Website,English,2025-02-07
+UG_TRUE_048,"Uganda's government to invest in infrastructure projects to improve rural connectivity.",TRUE,The East African,News Website,English,2025-02-08  
+UG_TRUE_049,"Uganda's agricultural sector to benefit from new market access initiatives for farmers.",TRUE,Daily Monitor,News Website,English,2025-02-08    
+UG_TRUE_050,"Uganda's government to enhance public health campaigns to promote healthy lifestyles.",TRUE,New Vision,News Website,English,2025-02-09 
+UG_TRUE_051,"Uganda's tourism industry to develop new cultural heritage sites to attract visitors.",TRUE,VOA Swahili,News Website,Mixed,2025-02-09
+UG_TRUE_052,"Uganda's government to implement new policies to support small and medium enterprises.",TRUE,CNN,News Website,English,2025-02-10
+UG_TRUE_053,"Uganda's healthcare system to receive new medical supplies to improve patient care.",TRUE,BBC Africa,News Website,English,2025-02-10
+UG_TRUE_054,"Uganda's education sector to receive increased funding for school infrastructure development.",TRUE,The East African,News Website,English,2025-02-11  
+UG_TRUE_055,"Uganda's government to launch new initiatives to promote youth employment.",TRUE,Daily Monitor,News Website,English,2025-02-11    
+UG_TRUE_056,"Uganda's government to enhance disaster risk reduction strategies.",TRUE,New Vision,News Website,English,2025-02-12
+UG_TRUE_057,"Uganda's tourism sector to develop new adventure tourism experiences to attract visitors.",TRUE,VOA Swahili,News Website,Mixed,2025-02-12
+UG_TRUE_058,"Uganda's government to implement new measures to support agricultural innovation.",TRUE,CNN,News Website,English,2025-02-13
+UG_TRUE_059,"Uganda's healthcare system to expand access to primary healthcare services in underserved areas.",TRUE,BBC Africa,News Website,English,2025-02-13
+UG_TRUE_060,"Uganda's education sector to receive new digital learning resources to enhance student engagement.",TRUE,The East African,News Website,English,2025-02-14  
+UG_TRUE_061,"Uganda's government to invest in renewable energy infrastructure to support sustainable development.",TRUE,Daily Monitor,News Website,English,2025-02-14    
+UG_TRUE_062,"Uganda's government to launch campaign to promote domestic tourism.",TRUE,New Vision,News Website,English,2025-02-15 
+UG_TRUE_063,"Uganda's infrastructure development projects receive support from international donors.",TRUE,VOA Swahili,News Website,Mixed,2025-02-15
+UG_TRUE_064,"Uganda's government to implement new policies to support innovation and technology development.",TRUE,CNN,News Website,English,2025-02-16
+UG_TRUE_065,"Uganda's healthcare sector to receive new training programs for healthcare workers.",TRUE,BBC Africa,News Website,English,2025-02-16
+UG_TRUE_066,"Uganda's education system to adopt new teaching methodologies to improve student learning outcomes.",TRUE,The East African,News Website,English,2025-02-17  
+UG_TRUE_067,"Uganda's government to launch new initiatives to promote entrepreneurship.",TRUE,Daily Monitor,News Website,English,2025-02-17
+UG_FAKE_086,"No, Ugandan president Museveni didn’t announce new lockdown measures on Twitter.",FAKE,AfricaCheck,Fact-Check,English,2021-03-20
+UG_FAKE_087,"No, Ugandan health ministry didn’t issue warning about fake vaccines being distributed.",FAKE,AfricaCheck,Fact-Check,English,2021-05-15
+UG_FAKE_088,"No, Ugandan police didn’t tweet that citizens must report anyone not wearing masks.",FAKE,AfricaCheck,Fact-Check,English,2020-07-10
+UG_FAKE_089,"No, Ugandan government didn’t announce free internet for all citizens.",FAKE,AfricaCheck,Fact-Check,English,2025-02-18
+UG_FAKE_090,"No, Ugandan opposition leader Bobi Wine didn’t call for international sanctions against Uganda.",FAKE,AfricaCheck,Fact-Check,English,2025-03-12
+UG_FAKE_091,"FALSE: Ugandan parliament did not pass bill banning use of Bobi Wine’s portrait at marriage ceremonies.Parliament confirmed that no such bill was discussed.",
+UG_FAKE_092,"FALSE: This video does not show the US Army arriving in Uganda ahead of elections. The video is of US Mountain Soldiers arriving in New York.",FAKE,PesaCheck,Fact-Check,English,2025-12-19
+UG_FAKE_093,"ALTERED: This photo of Uganda Police spokesperson Rusoke in an NRM T-shirt is doctored. The authentic photo shows Rusoke wearing a police uniform.",FAKE,PesaCheck,Fact-Check,English,2025-12-05
+UG_FAKE_094,"ALTERED: This video does not show President Museveni threatening CNN journalist Larry Madowo. The Presidency dismissed the video as fabricated.",FAKE,PesaCheck,Fact-Check,English,2025-12-05
+UG_FAKE_095,"FALSE: This video is not of Ugandan security forces shooting at protesters. The original video, from 2020, shows security forces in Kenya dispersing a crowd.",FAKE,PesaCheck,Fact-Check,English,2025-10-19
+UG_FAKE_096,"HOAX: This NIRA account promising express National IDs is not authentic. NIRA has dismissed the account as fake and urged the public to ignore it, along with several other imposter accounts.",FAKE,PesaCheck,Fact-Check,English,2025-11-20
+UG_FAKE_097,"FALSE: This video is not of Ugandan opposition leader Bobi Wine being arrested. The original video, from 2021, shows Bobi Wine being taken away by security forces during protests in Kampala.",FAKE,PesaCheck,Fact-Check,English,2025-10-14
+UG_FAKE_098,"FALSE: Ugandan opposition leader Bobi Wine has not fled to the US. There is no evidence to support this claim, and Bobi Wine has not made any public statements indicating that he has left Uganda.",FAKE,PesaCheck,Fact-Check,English,2025-08-30
+UG_FAKE_099,"ALTERED: This video of US President Trump commenting on electoral violence in Uganda is doctored. The original video is of Trump’s speech during his campaign in Wisconsin in 2016.",FAKE,PesaCheck,Fact-Check,English,2025-11-05
+UG_FAKE_100,"FALSE: This video is not of Ugandan opposition leader Bobi Wine calling for the overthrow of the Ugandan government. There is no evidence to support this claim, and Bobi Wine has not made any public statements indicating such intentions.",FAKE,PesaCheck,Fact-Check,English,2025-09-15   
+UG_FAKE_101,"FAKE: Centenary Bank’s head office in Kampala did not catch fire. The bank confirmed the allegations are false.",FAKE,PesaCheck,Fact-Check,English,2025-11-01
+UG_FAKE_102,"PARTLY FALSE: Natasha Museveni is not the Bank of Uganda governor. The position is held by Michael Atingi-Ego, not Natasha.",FAKE,PesaCheck,Fact-Check,English,2025-12-03
+UG_FAKE_103,"FALSE: This video is unrelated to Uganda’s Deputy Prime Minister Moses Ali. The video is of the arrival of the body of the deceased Speaker Jacob Oulanyah at Entebbe Airport.",FAKE,PesaCheck,Fact-Check,English,2025-12-03
+UG_FAKE_104,"ALTERED: This video of US President Trump speaking about Bobi Wine is doctored. The original video is of President Trump making remarks about New York City Mayor-elect Zohran Mamdani.",FAKE,PesaCheck,Fact-Check,English,2025-12-03
+UG_FAKE_105,"FALSE: This photo does not depict a UDA political rally in Mbeere North. The image was taken in Mayuge District in Uganda.",FAKE,PesaCheck,Fact-Check,English,2025-12-03
+UG_TRUE_068,"Uganda's government to implement new measures to enhance food security.",TRUE,Daily Monitor,News Website,English,2025-02-18
+UG_FAKE_106,"ALTERED: This video of Electoral Commission chairperson Simon Byabakama speaking about Bobi Wine is doctored. The original video shows Byabakama announcing the revised dates for the presidential nominations.",FAKE,PesaCheck,Fact-Check,English,2025-11-26
+UG_FAKE_107,"SATIRE: Muteesa 1 Royal University has not opened a campus on the Indian Ocean coast. The university said the claim is false.",FAKE,PesaCheck,Fact-Check,English,2025-11-15
+UG_FAKE_108,"FALSE: This video showing Ugandan military aircraft performing drills isn’t recent. The video precedes Museveni’s declaration on ownership of the Indian Ocean.",FAKE,PesaCheck,Fact-Check,English,2025-11-15
+UG_FAKE_109,"HOAX: This website promising free data to celebrate WhatsApp’s anniversary is a scam. The scam misleads users into believing they are being gifted 100GB of free data on WhatsApp’s 16th anniversary.",FAKE,PesaCheck,Fact-Check,English,2025-10-24
+UG_FAKE_110,"AKE: This opinion poll on Uganda’s 2026 presidential candidates is inauthentic. Research World International CEO Patrick Wakida dismissed the poll as fabricated.",FAKE,PesaCheck,Fact-Check,English,2025-10-14
+UG_TRUE_069,"Uganda's government to enhance water resource management to support agriculture.",TRUE,New Vision,News Website,English,2025-02-19  
+UG_TRUE_070,"Uganda's healthcare sector to implement new disease surveillance systems.",TRUE,VOA Swahili,News Website,Mixed,2025-02-19
+UG_TRUE_071,"Uganda's education system to receive new funding for vocational training programs.",TRUE,CNN,News Website,English,2025-02-20
+UG_TRUE_072,"Uganda's government to invest in infrastructure projects to improve urban transportation.",TRUE,BBC Africa,News Website,English,2025-02-20
+UG_TRUE_073,"Uganda's agricultural sector to benefit from new research and development initiatives.",TRUE,The East African,News Website,English,2025-02-21  
+UG_TRUE_074,"Uganda's government to launch new initiatives to promote financial inclusion.",TRUE,Daily Monitor,News Website,English,2025-02-21    
+UG_TRUE_075,"Uganda's government to enhance disaster response capabilities.",TRUE,New Vision,News Website,English,2025-02-22 
+UG_TRUE_076,"Uganda's tourism sector to develop new heritage tourism sites to attract visitors.",TRUE,VOA Swahili,News Website,Mixed,2025-02-22
+UG_FAKE_111,"ALTERED: Video of Joel Ssenyonyi receiving a service award is doctored. The video is generated using Artificial Intelligence.",FAKE,PesaCheck,Fact-Check,English,2025-12-12
+UG_FAKE_112,"ALTERED: This video of US President Trump speaking about Bobi Wine is doctored. The original video is of President Trump making remarks about New York City Mayor-elect Zohran Mamdani.",FAKE,PesaCheck,Fact-Check,English,2025-12-03
+UG_FAKE_113,"FALSE: This photo does not depict a UDA political rally in Mbeere North. The image was taken in Mayuge District in Uganda.",FAKE,PesaCheck,Fact-Check,English,2025-12-03
+UG_FAKE_114,"HOAX: This website promising free data to celebrate WhatsApp’s anniversary is a scam. The scam misleads users into believing they are being gifted 100GB of free data on WhatsApp’s 16th anniversary.",FAKE,PesaCheck,Fact-Check,English,2025-10-24
+UG_FAKE_115,"FAKE: This opinion poll on Uganda’s 2026 presidential candidates is inauthentic. Research World International CEO Patrick Wakida dismissed the poll as fabricated.",FAKE,PesaCheck,Fact-Check,English,2025-10-14
+UG_FAKE_116,"FALSE: Tanzania’s opposition leader Tundu Lissu has not been acquitted of all charges. Lissu remains in custody after his treason case was adjourned indefinitely.",FAKE,PesaCheck,Fact-Check,English,2025-11-28
+UG_FAKE_117,"HOAX: Airtel Money is not running this purported anniversary offer. Airtel Uganda has disowned it.",FAKE,PesaCheck,Fact-Check,English,2025-10-28    
+UG_FAKE_118,"PARTLY FALSE: Video of Kenyatta meeting President Museveni to negotiate the release of Kenyan activists recently is outdated. The video has been online since April 2025, when Kenyatta paid President Museveni a courtesy call at State House, Entebbe.",FAKE,PesaCheck,Fact-Check,English,2025-12-10
+UG_FAKE_119,"SATIRE: This video of Common Man’s Party president Munyagwa eating is fabricated. The video of the presidential candidate was created using AI.",FAKE,PesaCheck,Fact-Check,English,2025-12-10
+UG_FAKE_120,"FAKE: This TikTok account sharing pro-NRM content does not belong to Uganda Electoral Commission. The Uganda Electoral body told PesaCheck that the account is fake and not owned by the commission.",FAKE,PesaCheck,Fact-Check,English,2025-11-26
+UG_FAKE_121,"FALSE: Uganda’s President Museveni is alive. The video is AI-generated, and Museveni has continued to appear in public after the death claims.",FAKE,PesaCheck,Fact-Check,English,2025-11-12
+UG_FAKE_122,"ALTERED: This image of Kampala City Speaker Zahara Luyirika is doctored. In the original photo, Luyirika was displaying a picture of Bobi Wine, not President Museveni.",FAKE,PesaCheck,Fact-Check,English,2025-11-18
+UG_FAKE_123,"FALSE: The Ugandan police officer who assaulted a shop attendant was not released without charge. The police officer was charged with assault and remanded in prison.",FAKE,PesaCheck,Fact-Check,English,2025-11-05
+UG_FAKE_124,"ALTERED: This video of New York mayor-elect Zohran Mamdani pledging support for Bobi Wine is edited. The original video is of Mamdani speaking about the election in New York.",FAKE,PesaCheck,Fact-Check,English,2025-11-05
+UG_FAKE_125,"HOAX: The Uganda Electoral Commission is not recruiting polling agents. The Commission has disowned the job advert.",FAKE,PesaCheck,Fact-Check,English,2025-10-24
+UG_FAKE_126,"MISSING CONTEXT: This photo of Samia Suluhu Hassan’s swearing in as president is old. The photo was taken on 19 March 2021, when she was sworn in following the death of John Magufuli.",FAKE,PesaCheck,Fact-Check,English,2025-10-19
+UG_FAKE_127,"FALSE: This video doesn’t show floating bags in downtown Kampala. The video is AI-generated.",FAKE,PesaCheck,Fact-Check,English,2025-10-14
+UG_FAKE_128,"HOAX: This Bidco Uganda anniversary promotion is fake. The company disowned the promo.",FAKE,PesaCheck,Fact-Check,English,2025-10-01
+UG_FAKE_129,"FALSE: Former US President Barack Obama was not addressing the Tanzanian election in this video. Obama was delivering a speech at Mandela’s 100th birth anniversary on 17 July 2018.",FAKE,PesaCheck,Fact-Check,English,2025-09-15
+UG_FAKE_130,"ALTERED: This video claiming Tanzanian President Samia Suluhu Hassan is dead is doctored. President Samia is alive, and the original video, published by Citizen TV, was about activists commenting on Tanzania’s election.",FAKE,PesaCheck,Fact-Check,English,2025-09-10
+UG_FAKE_131,"FALSE: This video does not show protesters occupying a Tanzanian airport in October 2025. The video, from 2021, shows youth breaking through an airport fence to see the plane carrying the late President John Magufuli in Dar es Salaam.",FAKE,PesaCheck,Fact-Check,English,2025-08-30
+UG_FAKE_132,"FALSE: Kasambya County legislator David Kabanda is not dead. The member of parliament appeared in public after the death claims were shared online.",FAKE,PesaCheck,Fact-Check,English,2025-08-20
+UG_FAKE_133,"FALSE: Uganda’s opposition politician Kiiza Besigye was not seen leaving the country in October 2025. The video was posted in February 2024, and Besigye is currently in prison.",FAKE,PesaCheck,Fact-Check,English,2025-10-10
+UG_FAKE_134,"FALSE: Speaker Anita Among is not in critical condition following an accident. The Speaker has been publicly campaigning and continues performing her official duties.",FAKE,PesaCheck,Fact-Check,English,2025-09-25
+UG_FAKE_135,"FAKE: This purported Buganda Kingdom letter commenting on Bobi Wine’s visit to ex-President Obote’s grave is fabricated. The Buganda Kingdom has dismissed the letter as fake.",FAKE,PesaCheck,Fact-Check,English,2025-09-15
+UG_FAKE_135,"FALSE: This video is not of Teso elders crying to Speaker Anita Among. The video is of individuals mourning the death of Kenya’s former Prime Minister Raila Odinga.",FAKE,PesaCheck,Fact-Check,English,2025-09-05
+UG_FAKE_136,"FALSE: These photos do not show Bobi Wine arriving at State House. The images date back to 2017, when Bobi Wine was still the Kyadondo East MP, and were taken during one of his music shows.",FAKE,PesaCheck,Fact-Check,English,2025-08-30
+UG_FAKE_137,"FAKE: This TikTok account offering loans does not belong to Ugandan businessman Ham Kiggundu. Ham Group of Companies has disowned the account.",FAKE,PesaCheck,Fact-Check,English,2025-08-20
+UG_FAKE_138,"FALSE: President Museveni has not paused his re-election campaign due to illness. Museveni continued campaigning after the claim surfaced online.",FAKE,PesaCheck,Fact-Check,English,2025-08-10
+UG_FAKE_139,"FAKE: Daily Monitor did not publish this story on Ugandan activist Sarah Bireete. The publication disowned the alleged article.",FAKE,PesaCheck,Fact-Check,English,2025-07-30
+UG_FAKE_140,"FAKE: New Vision did not publish this article about a study on men in Mbale. The publication flagged it as fake.",FAKE,PesaCheck,Fact-Check,English,2025-10-19
+UG_FAKE_141,"FALSE: Allan Ssewanyana did not receive the NUP ticket for Makindye West MP. The party awarded the Makindye West ticket to Zahara Maala Luyilika, not Allan Ssewanyana.",FAKE,PesaCheck,Fact-Check,English,2025-12-12
+UG_FAKE_142,"FALSE: Uganda’s Education Minister Janet Museveni has not ordered schools to end their third term on 25 November 2025. The ministry has confirmed that the information is untrue.",FAKE,PesaCheck,Fact-Check,English,2025-11-20
+UG_FAKE_143,"FAKE: This campaign poster claiming businessman Ham Kiggundu is vying for Kampala Lord Mayor is fabricated. The NRM flagbearer for the position is Moses Nsubuga.",FAKE,PesaCheck,Fact-Check,English,2025-11-15
+UG_FAKE_144,"ALTERED: This purported NTV report on a new investment project by President Museveni is doctored. The video was manipulated using AI.",FAKE,PesaCheck,Fact-Check,English,2025-11-01
+UG_FAKE_145,"FALSE: Uganda has not recorded an outbreak of Ebola in October 2025. The video was recorded in 2022 and not 2025 as claimed.",FAKE,PesaCheck,Fact-Check,English,2025-10-28
+UG_FAKE_146,"ALTERED: This purported New Vision story about presidential candidate Bobi Wine is fabricated. The newspaper page was edited by replacing a death announcement of a senior police officer with the fake article.",FAKE,PesaCheck,Fact-Check,English,2025-10-24
+UG_FAKE_147,"HOAX: This Centenary Bank Independence Day promotion is fake. The Ugandan bank has disowned the purported offer.",FAKE,PesaCheck,Fact-Check,English,2025-10-01
+UG_FAKE_148,"FALSE: This video is not of Ugandan journalist arrested for questioning President Museveni on healthcare issues. The video is of a murder suspect and not the journalist as alleged.",FAKE,PesaCheck,Fact-Check,English,2025-10-01
+UG_FAKE_149,"HOAX: This purported National Unity Platform data offer to supporters is fake. The party leadership disowned the promotion, terming it a scam.",FAKE,PesaCheck,Fact-Check,English,2025-10-07
+UG_FAKE_150,"FALSE HEADLINE: The UN has not issued a directive banning President Museveni from running for president. The United Nations (UN) Charter does not specify how elections should be conducted within individual countries.",FAKE,PesaCheck,Fact-Check,English,2025-09-07
+UG_FAKE_151,"FALSE HEADLINE: This video doesn’t show Rebecca Kadaga declaring support for Bobi Wine. The video shows Kadaga’s homecoming event in Jinja.",FAKE,PesaCheck,Fact-Check,English,2025-09-07
+UG_FAKE_152,"HOAX: This purported National Unity Platform data offer to supporters is fake. The party leadership disowned the promotion, terming it a scam.",FAKE,PesaCheck,Fact-Check,English,2025-10-07
+UG_FAKE_153,"FALSE HEADLINE: The UN has not issued a directive banning President Museveni from running for president. The United Nations (UN) Charter does not specify how elections should be conducted within individual countries.",FAKE,PesaCheck,Fact-Check,English,2025-09-07
+UG_FAKE_154,"FALSE HEADLINE: This video doesn’t show Rebecca Kadaga declaring support for Bobi Wine. The video shows Kadaga’s homecoming event in Jinja.",FAKE,PesaCheck,Fact-Check,English,2025-09-07
+UG_FAKE_155,"ALTERED: This video showing UBC TV anchor Kazimoto promoting a money-making app is doctored. The video was digitally manipulated using AI.",FAKE,PesaCheck,Fact-Check,English,2025-08-20
+UG_FAKE_156,"FAKE: This photo of Joseph Kony’s national ID card is fabricated. Uganda’s National Identification and Registration Authority (NIRA) has disowned the ID card, terming it inauthentic.",FAKE,PesaCheck,Fact-Check,English,2025-08-10
+UG_FAKE_157,"FAKE: This image of Uganda’s opposition politician Joel Ssenyonyi wearing a T-shirt branded ‘Vote M7’ is fabricated. The image is AI-generated.",FAKE,PesaCheck,Fact-Check,English,2025-07-30
+UG_FAKE_158,"FAKE: This photo of NUP mobiliser Sauda Madada in an NRM T-shirt is fabricated. Several AI-detection tools show that the image was generated using AI.",FAKE,PesaCheck,Fact-Check,English,2025-07-25
+UG_FAKE_159,"ALTERED: This video of President Museveni saying he won’t vie for presidency again after 2026 is manipulated. The original video is of Museveni addressing the Egypt–Uganda Business Forum in Cairo in August 2025.",FAKE,PesaCheck,Fact-Check,English,2025-07-15
+UG_FAKE_160,"FAKE: This campaign poster portraying Ugandan pastor Wilson Bugembe as NRM’s Nansana Municipality flagbearer is fabricated. The NRM flagbearer for Nansana Municipality is Idi Buggaga Matovu.",FAKE,PesaCheck,Fact-Check,English,2025-07-10
+UG_FAKE_161,"FALSE: Erias Lukwago and Ssemujju Nganda have not defected from PFF to NUP. The claim in the video misrepresents the information shared during the PFF press conference to promote pro-NUP sentiments.",FAKE,PesaCheck,Fact-Check,English,2025-06-30
+UG_FAKE_162,"ALTERED: This video of Ugandan President Museveni endorsing rival Bobi Wine is doctored. The original video is of Museveni speaking about Uganda-Egypt relations.",FAKE,PesaCheck,Fact-Check,English,2025-06-20
+UG_FAKE_163,"PARTLY FALSE: This photo is not of Ugandan politician Bobi Wine meeting UK’s Deputy Prime Minister. The individual in the photo isn’t UK’s deputy premier, David Lammy.",FAKE,PesaCheck,Fact-Check,English,2025-09-15
+UG_FAKE_164,"FALSE: ICC has not issued an arrest warrant for President Museveni and his son, Muhoozi. ICC told PesaCheck in an email that no such arrest warrants have been issued.",FAKE,PesaCheck,Fact-Check,English,2025-06-10
+UG_FAKE_165,"ALTERED: This photo of UPDF spokesperson in an NUP-branded uniform is doctored. Error Level Analysis conducted on the photo shows that the image was manipulated and digitally altered to add the badges.",FAKE,PesaCheck,Fact-Check,English,2025-05-30
+UG_FAKE_166,"FALSE: WhatsApp has not released a feature that notifies users when chats are recorded or screenshots are taken. Meta, WhatsApp’s parent company, refuted the claim.",FAKE,PesaCheck,Fact-Check,English,2025-05-20
+UG_FAKE_167,"FALSE: This post claiming 15 people died in an accident on Seeta-Jinja Kampala Highway is misleading. The claim is misleading, and the images used are not of recent events.",FAKE,PesaCheck,Fact-Check,English,2025-09-10
+UG_FAKE_168,"FALSE: This notice from the Ministry of Agriculture promising grants is fake. MAAIF and Minister Frank Tumwebaze have dismissed the notice as false and urged the public to ignore it.",FAKE,PesaCheck,Fact-Check,English,2025-10-09
+UG_FAKE_169,"FAKE: This post about NRM CEC elections attributed to Rebecca Kadaga is from a parody account. The claim was posted by a parody account impersonating the former Speaker of Parliament and has since been deleted.",FAKE,PesaCheck,Fact-Check,English,2025-11-15
+UG_FAKE_170,"FALSE: Ugandan politician Rebecca Kadaga did not win NRM vice chairperson seat. The NRM Electoral Commission declared Anita Among the winner.",FAKE,PesaCheck,Fact-Check,English,2025-11-15
+UG_FAKE_171,"FAKE: This Facebook post on NUP presidency is not by Bobi Wine. The politician disowned the post.",FAKE,PesaCheck,Fact-Check,English,2025-12-01
+UG_FAKE_172,"FALSE: President Trump did not sign an order requiring a US passport to purchase food and medicine. The US embassy in Uganda said there is no such directive.",FAKE,PesaCheck,Fact-Check,English,2025-12-10
+UG_FAKE_173,"FALSE: Uganda’s former Speaker Rebecca Kadaga has not agreed to join the opposition. The video does not show Kadaga accepting Bobi Wine’s request to join the opposition.",FAKE,PesaCheck,Fact-Check,English,2025-12-15
+UG_FAKE_174,"FALSE: Former Speaker Kadaga was not chased out of the NRM NEC meeting. A review of the full coverage of the meeting shows no evidence of such an incident.",FAKE,PesaCheck,Fact-Check,English,2025-08-18
+UG_FAKE_175,"FAKE: Uganda’s Inspectorate of Government did not author this letter interdicting National Youth Council members. The Inspectorate has disowned the letter.",FAKE,PesaCheck,Fact-Check,English,2025-08-25
+UG_FAKE_176,"FALSE: President Museveni did not announce joining vocational education after primary school. The Education Ministry confirmed the allegations to be untrue.",FAKE,PesaCheck,Fact-Check,English,2025-09-01
+UG_FAKE_177,"FALSE HEADLINE: This video doesn’t show President Museveni commenting on death of NUP activist Marinos. The headline of the YouTube video is both misleading and clickbait.",FAKE,PesaCheck,Fact-Check,English,2025-09-12
+UG_FAKE_178,"ALTERED: This video of UK Prime Minister Keir Starmer announcing jobs under a free immigration programme is doctored. The video was edited using AI.",FAKE,PesaCheck,Fact-Check,English,2025-09-20
+UG_FAKE_179,"ALTERED: This photo of Bobi Wine announcing a new ‘People Power’ uniform is manipulated. The original photo shows Bobi Wine dressed in a red attire with NUP party branding and not a military uniform.",FAKE,PesaCheck,Fact-Check,English,2025-10-05
+UG_FAKE_180,"FALSE: Uganda’s Education Minister did not announce that there won’t be ‘A’ Level in 2026. Minister Janet Museveni was commenting about curriculum review, not halting ‘A’ Level in the original video.",FAKE,PesaCheck,Fact-Check,English,2025-10-15
+UG_FAKE_181,"FALSE: Uganda’s President Museveni and his wife Janet are not dead. The couple has made public appearances days after the death claims were made.",FAKE,PesaCheck,Fact-Check,English,2025-11-01
+UG_FAKE_182,"ALTERED: This video of Ugandan journalist Raymond Mujuni promoting a government financial platform… Mujuni and Daily Monitor disowned the purported interview, terming it a hoax.",FAKE,PesaCheck,Fact-Check,English,2025-11-10
+UG_FAKE_183,"HOAX: This Uganda Electoral Commission job application portal is fake. The electoral body disowned the purported portal.",FAKE,PesaCheck,Fact-Check,English,2025-11-15
+UG_FAKE_184,"MISSING CONTEXT: This photo of Ugandan PM Nabbanja is outdated. The photo dates back to July 2014, when Nabbanja was reportedly assaulted over her stance on roadblocks in her constituency.",FAKE,PesaCheck,Fact-Check,English,2025-11-20
+UG_FAKE_185,"FALSE: Ugandan opposition politician Kizza Besigye remains in prison as of 31 July 2025. The original video of Besigye dancing is from a hearing where the Nakawa Chief Magistrate’s Court rejected an application to access the politician’s medical records.",FAKE,PesaCheck,Fact-Check,English,2025-07-31
+UG_FAKE_186,"FALSE: Simon Byabakama, the chairman of Uganda’s Electoral Commission, has not resigned. State House and the Commission confirmed Byabakama is still the chairman.",FAKE,PesaCheck,Fact-Check,English,2025-12-20
+UG_FAKE_187,"FALSE: Sheikh Shaban Mubajje is still the Mufti of Uganda. The Uganda Muslim Supreme Council has confirmed that the claims about Mubajje being overthrown and the position being vacant are false.",FAKE,PesaCheck,Fact-Check,English,2025-12-18
+UG_FAKE_188,"FALSE: Ugandan opposition leader Kizza Besigye was not re-arrested in Kenya in 2025. Besigye has been in Luzira prison since 2024, and the video is AI-generated.",FAKE,PesaCheck,Fact-Check,English,2025-10-19
+UG_FAKE_189,"FAKE: This X account spreading misinformation and posting as the Democratic Alliance of Uganda is an impostor. The Democratic Front party spokesperson stated that the Democratic Alliance pressure group’s X account has since been suspended.",FAKE,PesaCheck,Fact-Check,English,2025-12-15
+UG_FAKE_190,"ALTERED: This photo of Uganda’s Prime Minister Nabbanja with facial injuries is manipulated. ALTERED: This photo of Uganda’s Prime Minister Nabbanja with facial injuries is manipulated. The photo has been edited and contains AI-generated or deepfake elements.",FAKE,PesaCheck,Fact-Check,English,2025-07-20
+UG_FAKE_191,"ALTERED: This Sunday Monitor cover featuring a story on Uganda’s opposition is doctored. The publication has disowned it.",FAKE,PesaCheck,Fact-Check,English,2025-10-19
+UG_FAKE_192,"HOAX: This NIRA account promising express National IDs is not authentic. NIRA has dismissed the account as fake and urged the public to ignore it, along with several other imposter accounts.",FAKE,PesaCheck,Fact-Check,English,2025-11-20
+UG_FAKE_193,"ALTERED: Video showing Busoga king kneeling before President Museveni to receive vehicle donation is edited. The video was altered using AI.",FAKE,PesaCheck,Fact-Check,English,2025-12-05
+UG_FAKE_194,"FALSE: Ugandan legislator Twaha Kagabo did not garner two votes in NRM primary elections. Kagabo got 2501 votes, coming second in a race of four.",FAKE,PesaCheck,Fact-Check,English,2025-11-12
+UG_FAKE_195,"FALSE: This video of Uganda’s President Museveni isn’t directed at his Kenyan counterpart Ruto. The video is from 2020 and unrelated to President Ruto’s sentiments.",FAKE,PesaCheck,Fact-Check,English,2025-12-01
+UG_FAKE_196,"FALSE: President Donald Trump did not order a total shutdown of US borders. The US mission in Uganda said travel to the US continues.",FAKE,PesaCheck,Fact-Check,English,2025-12-10
+UG_FAKE_197,"FAKE: This NRM letter nullifying the nomination of Bosmic Otim is fabricated. NRM’s Electoral Commission disowned the letter.",FAKE,PesaCheck,Fact-Check,English,2025-07-26
+UG_FAKE_198,"FALSE: Uganda has not banned TikTok. The Ugandan government and social media users have dismissed the claim as false.",FAKE,PesaCheck,Fact-Check,English,2025-08-15
+UG_FAKE_199,"FALSE: This alert does not prohibit Americans from travelling to Uganda. The post making the claim misinterprets advisories issued by the US Embassy in Uganda in June 2025.",FAKE,PesaCheck,Fact-Check,English,2025-09-15   
+UG_FAKE_200,"MISSING CONTEXT: This video does not show Eddie Mutwe, Bobi Wine’s bodyguard, after being released from prison in 2025. The claim video is of Eddie Mutwe after being released from prison in 2021.",FAKE,PesaCheck,Fact-Check,English,2025-10-10
+UG_TRUE_077,"Court upholds Mulirire's disqualification from Budiope East MP race",TRUE,Daily Monitor,News Website,English,2026-1-09
+UG_TRUE_078,"Uganda's government to implement new measures to support small and medium enterprises (SMEs).",TRUE,New Vision,News Website,English,2025-02-23
+UG_TRUE_079,"We shall discuss minimum wage at an appropriate time - Museveni",TRUE,Daily Monitor,News Website,English,2026-01-09
+UG_TRUE_080,"Bukomansimbi road crash leaves two dead, three injured",TRUE,Daily Monitor,News Website,English,2026-01-09
+UG_TRUE_081,"You can block Kyagulanyi campaigns but you won’t stop us from voting- NUP supporters",TRUE,New Vision,News Website,English,2026-01-09
+UG_TRUE_082,"Encroachment on Nasenyi Wetlands Sparks Fears as Climate Impacts Intensify in Eastern Uganda",TRUE,Nile Post,News Website,English,2026-01-09
+UG_TRUE_083,"Uganda's government to enhance digital infrastructure to support e-governance initiatives.",TRUE,Daily Monitor,News Website,English,2025-02-23
+UG_TRUE_084,"Uganda's agricultural sector to implement new irrigation systems to improve crop yields.",TRUE,New Vision,News Website,English,2025-02-24
+UG_TRUE_085,"Uganda's government to launch new programs to promote renewable energy adoption.",TRUE,Daily Monitor,News Website,English,2025-02-24
+UG_TRUE_086,"Uganda's healthcare sector to implement new telemedicine services to improve access to care.",TRUE,New Vision,News Website,English,2025-02-25
+UG_TRUE_087,"Uganda's government to invest in new public transportation systems to reduce traffic congestion.",TRUE,Daily Monitor,News Website,English,2025-02-25
+UG_TRUE_088,"Uganda's education system to implement new digital learning platforms for students.",TRUE,New Vision,News Website,English,2025-02-26
+UG_TRUE_089,"Uganda's government to enhance border security measures to combat smuggling and illegal trade.",TRUE,Daily Monitor,News Website,English,2025-02-26
+UG_TRUE_090,"Uganda's tourism sector to launch new marketing campaigns to attract international visitors.",TRUE,New Vision,News Website,English,2025-02-27
+UG_TRUE_091,"Uganda's government to implement new policies to support smallholder farmers.",TRUE,Daily Monitor,News Website,English,2025-02-27
+UG_TRUE_092,"Uganda's government to enhance disaster preparedness and response capabilities.",TRUE,New Vision,News Website,English,2025-02-28
+UG_TRUE_093,"Uganda's government to invest in new water supply systems to improve access to clean water.",TRUE,Daily Monitor,News Website,English,2025-02-28
+UG_TRUE_094,"Uganda's government to launch new initiatives to promote youth entrepreneurship.",TRUE,New Vision,News Website,English,2025-03-01
+UG_TRUE_095,"Uganda's government to enhance public health infrastructure to support disease prevention efforts.",TRUE,Daily Monitor,News Website,English,2025-03-01
+UG_TRUE_096,"Uganda's government to implement new policies to promote gender equality and women's empowerment.",TRUE,New Vision,News Website,English,2025-03-01
+UG_TRUE_097,"Government Launches Free Gas Initiative in Kisoro to Reduce Deforestation",TRUE,Nile Post,News Website,English,2026-01-09
+UG_TRUE_098,"Uganda's government to invest in new technology infrastructure to support innovation and research.",TRUE,Daily Monitor,News Website,English,2025-03-02
+UG_TRUE_099,"Uganda's government to enhance public safety measures to combat crime and violence.",TRUE,New Vision,News Website,English,2025-03-02
+UG_TRUE_100,"Uganda's government to launch new programs to promote cultural heritage and tourism.",TRUE,Daily Monitor,News Website,English,2025-03-03
+UG_TRUE_101,"FUFA Suspends Three Buhimba United Players Over Match-Fixing.",TRUE,Nile,News Website,English,2026-01-09
+UG_TRUE_102,"Uganda's government to implement new policies to support renewable energy development.",TRUE,New Vision,News Website,English,2025-03-03
+UG_TRUE_103,"Uganda's government to enhance public transportation systems to improve mobility and reduce traffic congestion.",TRUE,Daily Monitor,News Website,English,2025-03-04
+UG_TRUE_104,"Uganda's government to launch new initiatives to promote environmental conservation and sustainability.",TRUE,New Vision,News Website,English,2025-03-04
+UG_TRUE_105,"Uganda's government to invest in new healthcare infrastructure to improve access to medical services.",TRUE,Daily Monitor,News Website,English,2025-03-05
+UG_TRUE_106,"New Climate-Smart Agriculture Project to Help Farmers Cope With Drought in Uganda",TRUE,Nile Post,News Website,English,2026-01-09
+UG_TRUE_107,"NEMA Steps Up Crackdown on Environmental Offences as Climate Risks Deepen",TRUE,Nile Post,News Website,English,2026-01-09
+UG_TRUE_108,"COP30 highlights growing need of countries for resilience to storms, flood and fires",TRUE,Nile Post,News Website,English,2026-01-09
+UG_TRUE_109,"Nordic Ministers Push Global Food Reset; African Leaders Call for Equity and Support",TRUE,Nile Post,News Website,English,2026-01-09
+UG_TRUE_110,"Nabbanja Urges Ugandans to Take Personal Responsibility in Protecting Environment",TRUE,Nile Post,News Website,English,2026-01-09
+UG_TRUE_111,"Unpredictable Weather Devastates Farmers in Greater Masaka Region",TRUE,Nile Post,News Website,English,2026-01-09
+UG_TRUE_112,"EU Lauds Uganda’s Climate Efforts, Backs Circular Economy Drive at Green Diplomacy Week",TRUE,Nile Post,News Website,English,2026-01-09
+UG_TRUE_113,"Uganda, Sweden Reaffirm Strong Partnership in Development, Education, and Climate Action",TRUE,Nile Post,News Website,English,2026-01-09
+UG_TRUE_114,"National Agroecology Festival 2025 Launched with Farmers Urging Sustainable Food Systems",TRUE,Nile Post,News Website,English,2026-01-09
+UG_TRUE_115,"Iteso Cultural Union, Italian Agency Partner to Fight Climate Change Through Agroforestry",TRUE,Nile Post,News Website,English,2025-12-09
+UG_TRUE_116,"Schools Join 'She Leads' Climate Greening Drive to Foster Environmental Stewardship",TRUE,Nile Post,News Website,English,2025-11-25
+UG_TRUE_117,"Third Climate Change Awareness Marathon Launched at Parliament",TRUE,Nile Post,News Website,English,2025-11-20
+UG_TRUE_118,"South Korea Sows Seeds of Climate Adaptation in Uganda",TRUE,Nile Post,News Website,English,2025-11-15
+UG_TRUE_119,"Uganda’s Climate Change Bill 2025 Passed to Strengthen National Response to Climate Crisis",TRUE,Nile Post,News Website,English,2025-11-10
+UG_TRUE_120,"Uganda, Denmark Strengthen Climate Action Partnership at COP30",TRUE,Nile Post,News Website,English,2025-11-05
+UG_TRUE_121,"Uganda’s Renewable Energy Sector Attracts $500 Million Investment to Boost Green Power",TRUE,Nile Post,News Website,English,2025-10-30
+UG_TRUE_122,"Uganda Launches National Climate Resilience Strategy to Safeguard Vulnerable Communities",TRUE,Nile Post,News Website,English,2025-10-25
+UG_TRUE_123,"Uganda’s Climate-Smart Agriculture Initiatives Gain Momentum Amidst Rising Climate Risks",TRUE,Nile Post,News Website,English,2025-10-20
+UG_TRUE_124,"Uganda Partners with World Bank to Enhance Climate Resilience in Agriculture Sector",TRUE,Nile Post,News Website,English,2025-10-15
+UG_TRUE_125,"Uganda’s Forest Conservation Efforts Yield Positive Results in Biodiversity Protection",TRUE,Nile Post,News Website,English,2025-10-10
+UG_TRUE_126,"Uganda’s Climate Change Adaptation Programs Receive Boost from International Donors",TRUE,Nile Post,News Website,English,2025-10-05
+UG_TRUE_127,"Uganda’s Renewable Energy Projects Drive Economic Growth and Job Creation",TRUE,Nile Post,News Website,English,2025-10-01
+UG_TRUE_128,"Uganda’s Climate Change Mitigation Strategies Gain Recognition at Global Forums",TRUE,Nile Post,News Website,English,2025-09-25
+UG_TRUE_129,"Uganda’s Climate Resilience Initiatives Empower Local Communities to Adapt to Climate Change",TRUE,Nile Post,News Website,English,2025-09-20
+UG_TRUE_130,"Uganda’s Climate Change Policies Aligned with Sustainable Development Goals",TRUE,Nile Post,News Website,English,2025-09-15
+UG_TRUE_131,"South Ankole Bishop Warns of Climate Crisis Threatening Agriculture and Livelihoods",TRUE,Nile Post,News Website,English,2025-09-10
+UG_TRUE_132,"Uganda’s Climate Change Research Advances Understanding of Climate Impacts",TRUE,Nile Post,News Website,English,2025-09-05
+UG_TRUE_133,"Uganda’s Climate Change Education Programs Foster Environmental Awareness",TRUE,Nile Post,News Website,English,2025-09-01
+UG_TRUE_134,"Experts Call for Greener Cities as Climate Change Fuels Health Crisis in Africa",TRUE,Nile Post,News Website,English,2025-08-28
+UG_TRUE_135,"UPDF Hands Over 40 Quick Impact Projects in Kigezi Ahead of 45th Tarehe Sita Anniversary",TRUE,Nile Post,News Website,English,2025-08-25
+UG_TRUE_136,"Buikwe Residents Renew Call for Museveni to Honour 1993 School Pledge",TRUE,Nile Post,News Website,English,2025-08-20
+UG_TRUE_137,"Victoria University VC Muganga Calls for Peaceful, Responsible Participation in Elections",TRUE,Nile Post,News Website,English,2025-08-15
+UG_TRUE_138,"Delay of Kanara Seed School Nears End as Kitagwenda Authorities, Contractor Agree on Clear Way Forward",TRUE,Nile Post,News Website,English,2025-08-10
+UG_TRUE_139,"Museveni Launches Shs 100bn Coffee Development Fund to Boost Farmers' Incomes",TRUE,Nile Post,News Website,English,2025-08-05
+UG_TRUE_140,"Anti-Illicit Alcohol Coalition Takes Festive Awareness Campaign to Arua",TRUE,Nile Post,News Website,English,2025-08-01
+UG_TRUE_141,"Education Is the Foundation of Unity and Progress, Mubaje Tells Muslims",TRUE,Nile Post,News Website,English,2025-07-28
+UG_TRUE_142,"NETA to Award Scholarships and Bursaries to Needy Students",TRUE,Nile Post,News Website,English,2025-07-25
+UG_TRUE_143,"Uganda, Saudi Arabia Hold High-Level Political Consultations in Kampala",TRUE,Nile Post,News Website,English,2025-07-20
+UG_TRUE_144,"CoU to Establish Industrial Park to Produce Affordable Scholastic Materials",TRUE,Nile Post,News Website,English,2025-07-15
+UG_TRUE_145,"Kaziimba Urges Teachers to Promote Peace and Shun Divisive Politics",TRUE,Nile Post,News Website,English,2025-07-10
+UG_TRUE_146,"Makerere Convenes First Student–Alumni Town Hall Meeting",TRUE,Nile Post,News Website,English,2025-07-05
+UG_TRUE_147,"Uneb Human Resources Director Sabastian Ngobi Dies Suddenly",TRUE,Nile Post,News Website,English,2025-07-01
+UG_TRUE_148,"Uganda, China Sign MoU to Boost Cooperation in Education Sector",TRUE,Nile Post,News Website,English,2025-06-28
+UG_TRUE_149,"Muntu Promises to Tackle Corruption and Restore Trust in Politics",TRUE,Nile Post,News Website,English,2025-06-25
+UG_TRUE_150,"Museveni Urges KIU Graduands to Embrace Healthy Lifestyles and Pursue Family Wealth",TRUE,Nile Post,News Website,English,2025-06-20
+UG_TRUE_151,"Uganda Shilling is the Most Stable Currency in the World Followed by the UK Pound – Ggoobi",TRUE,Nile Post,News Website,English,2025-06-15
+UG_TRUE_152,"First Lady Calls for Women’s Bank to Deepen Economic Empowerment",TRUE,Nile Post,News Website,English,2025-06-10
+UG_TRUE_153,"Elections Loom, Yields Hold Steady: Experts Advise Investors to Stay the Course",TRUE,Nile Post,News Website,English,2025-06-05
+UG_TRUE_154,"VP Alupo Calls for Industrial Growth, Job Creation as  Greater Luwero Investment Forum is Launched",TRUE,Nile Post,News Website,English,2025-06-01
+UG_TRUE_155,"Stanbic PMI: Private Sector Ends 2025 With High Hopes for Further Expansion in 2026",TRUE,Nile Post,News Website,English,2025-05-28
+UG_TRUE_156,"EACOP Eyes July Technical, October Political Commissioning as Tanga Export Terminal Nears Readiness",TRUE,Nile Post,News Website,English,2025-05-25
+UG_TRUE_157,"Radiowalla Exclusive: Bank of Baroda MD Shashi Dhar on Banking, Leadership and Uganda’s Growth Potential",TRUE,Nile Post,News Website,English,2025-05-20
+UG_TRUE_158,"Global Oil Prices Jittery After US Action in Venezuela",TRUE,Nile Post,News Website,English,2025-05-15
+UG_TRUE_159,"Economists Predict Coffee Boom as 2026 Set to Defy Election-Year Slowdown",TRUE,Nile Post,News Website,English,2025-05-10
+UG_TRUE_160,"Stanbic Bank Uganda’s Ken Agutamba Named Among Africa’s Top 100 Corporate Communication Leaders",TRUE,Nile Post,News Website,English,2025-05-05
+UG_TRUE_161,"Uganda’s Forex Reserves Hit New High of $4.2 Billion",TRUE,Nile Post,News Website,English,2025-05-01
+UG_TRUE_162,"Uganda’s Economic Growth Projected to Reach 6.5% in 2025 Amidst Global Uncertainties",TRUE,Nile Post,News Website,English,2025-04-28
+UG_TRUE_163,"140 Beneficiaries Graduate from UBL's Learning for Life Program",TRUE,Nile Post,News Website,English,2025-04-25
+UG_TRUE_164,"EuroGold Expands Globally with Opening of Main Offices in Dubai",TRUE,Nile Post,News Website,English,2025-04-20
+UG_TRUE_165,"High-Level Stakeholder Meeting at Tanzania Ministry of Energy Hosts Ugandan Delegation Ahead of EACOP Tour",TRUE,Nile Post,News Website,English,2025-04-15
+UG_TRUE_166,"Uganda, Tanzania review EACOP progress ahead of joint project site tour",TRUE,Nile Post,News Website,English,2025-04-10
+UG_TRUE_167,"Nile Breweries Gets New Managing Director",TRUE,Nile Post,News Website,English,2025-04-05
+UG_TRUE_168,"Government Sets Ambitious Revenue Target, URA to Collect Shs40tn in 2026/27",TRUE,Nile Post,News Website,English,2025-04-01
+UG_TRUE_169,"Uganda Loses $1.4bn Annually to Illegal Activities in Fish Sector",TRUE,Nile Post,News Website,English,2025-03-28
+UG_TRUE_170,"Residential Property Prices Surge in Kampala ,Wakiso- UBOS",TRUE,Nile Post,News Website,English,2025-03-25
+UG_TRUE_171,"Gladys Baligonzaki Appointed New Mulago Hospital Spokesperson",TRUE,Nile Post,News Website,English,2025-03-20
+UG_TRUE_172,"Makerere Reinstates Staff Exposed in Bribery Scandal",TRUE,Nile Post,News Website,English,2025-03-15
+UG_TRUE_173,"EXCLUSIVE: Police Probe Officers Over Viral TikTok Video Praising Bobi Wine",TRUE,Nile Post,News Website,English,2025-03-10
+UG_TRUE_174,"Nicholas Opiyo Steps Down From Chapter Four Uganda",TRUE,Nile Post,News Website,English,2025-03-05
+UG_TRUE_175,"Kisoro By-Election: Seven Defy Museveni Orders to Stand Down",TRUE,Nile Post,News Website,English,2025-03-01
+UG_TRUE_176,"BREAKING: CID Summons Former KCCA Bosses Kisaka, Luyimbazi",TRUE,Nile Post,News Website,English,2025-02-28
+UG_TRUE_177,"EXCLUSIVE: Judge Bukirwa in high-stakes meeting with Museveni to secure her position",TRUE,Nile Post,News Website,English,2025-02-25
+UG_TRUE_178,"We are still strong regardless of financial dilema-FDC Katonga.",TRUE,Nile Post,News Website,English,2025-02-20
+UG_TRUE_179,"Museveni appoints new KCCA board members",TRUE,Nile Post,News Website,English,2025-02-15
+UG_TRUE_180,"Dubai also slaps Speaker Among, former ministers with sanctions",TRUE,Nile Post,News Website,English,2025-02-10
+UG_TRUE_181,"Suspected Fraudster in Court for Impersonating UPDF General, Defrauding Investors",TRUE,Nile Post,News Website,English,2025-02-05
+UG_TRUE_182,"Police Probe Armed Robbery That Leaves Mubende Community Shaken",TRUE,Nile Post,News Website,English,2025-02-01
+UG_TRUE_183,"Police Arrest 20-Year-Old Over UPDF Impersonation, Inciting TikTok Videos",TRUE,Nile Post,News Website,English,2025-01-28
+UG_TRUE_184,"Septic Tank Collapse Kills Plumber at Komamboga Construction Site",TRUE,Nile Post,News Website,English,2025-01-25
+UG_TRUE_185,"Police Arrest Suspect After Spate of Aggravated Robberies in Nakawa Division",TRUE,Nile Post,News Website,English,2025-01-20
+UG_TRUE_186,"Three Arrested in Mityana Over Illegal Possession of Electoral Materials",TRUE,Nile Post,News Website,English,2025-01-15
+UG_TRUE_187,"UHRC Opens Two-Day Karamoja Tribunal Over Alleged Security Force Abuses",TRUE,Nile Post,News Website,English,2025-01-10
+UG_TRUE_188,"Gunmen Kill 38-Year-Old Man in Nabilatuk Midnight Shooting",TRUE,Nile Post,News Website,English,2025-01-05
+UG_TRUE_189,"Man Found Murdered in Nansana as Residents Allege Blood Was Drained",TRUE,Nile Post,News Website,English,2025-01-01
+UG_TRUE_190,"Police Investigate Separate Arson Incidents in Kireka and Mukono.",TRUE,Nile Post,News Website,English,2024-12-28
+UG_TRUE_191,"Gold Mine Pit Collapse Kills One, Injures Three in Kassanda",TRUE,Nile Post,News Website,English,2024-12-25
+UG_TRUE_192,"Fear Grips Masaka City Residents as Woman Found Murdered in Rented Room",TRUE,Nile Post,News Website,English,2024-12-20
+UG_TRUE_193,"Police Arrest Man Behind  “Protest Vote” Graffiti on Kampala–Kiboga–Hoima Highway",TRUE,Nile Post,News Website,English,2024-12-15
+UG_TRUE_194,"Church Alleges Drunk UPDF Driver Caused Death of Anglican Priest in Abim",TRUE,Nile Post,News Website,English,2024-12-10
+UG_TRUE_195,"NUP MP Charles Matovu, Campaign Team Brutally Attacked in Busiro South",TRUE,Nile Post,News Website,English,2024-12-05
+UG_TRUE_196,"Police praise catechists after swift recovery of stolen four-month-old baby in Kiboga",TRUE,Nile Post,News Website,English,2024-12-01
+UG_TRUE_197,"Police Dismiss Claims of Plot to Detain Bobi Wine Before Election Day",TRUE,Nile Post,News Website,English,2024-11-28
+UG_TRUE_198,"Museveni Hails Tycoon Nzeyi’s Contribution to Uganda's Economic Transformation",TRUE,Nile Post,News Website,English,2024-11-25
+UG_TRUE_199,"Bobi Wine Questions Healthcare System at Funeral of Fik Fameica’s Mother",TRUE,Nile Post,News Website,English,2024-11-20
+UG_TRUE_200,"Uganda’s Opposition Unites to Demand Electoral Reforms Ahead of 2026 Elections",TRUE,Nile Post,News Website,English,2024-11-15
